@@ -57,6 +57,9 @@ transform: rotateY(180deg);
 .cartao__conteudo__resposta {
 backface-visibility: hidden;
 }
+.cartao__conteudo__resposta {
+transform: rotateY(180deg);
+}
 
 footer {
 background-color: black;
