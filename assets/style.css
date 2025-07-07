@@ -15,7 +15,7 @@ display:flex ;
 }
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(208, 9, 158);
+background-color: rgb(6, 241, 206);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
