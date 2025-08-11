@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tecnologia',
+    'Quem inventou a lâmpada?',
+    ' Thomas Edison.'
 )
 
 criaCartao(
@@ -11,12 +11,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Ciências',
+    'Quantos ossos temos no nosso corpo?',
+    '206 ossos'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Em que país de localiza o Taj Mahal?',
+    'ìndia'
 )
