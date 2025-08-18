@@ -17,6 +17,6 @@ criaCartao(
 )
     criaCartao(
     'Geografia',
-    'Em que país de localiza o Taj Mahal?',
-    'ìndia'
+    'Em que país se localiza o Taj Mahal?',
+    'Ìndia'
 )
